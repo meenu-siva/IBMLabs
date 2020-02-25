@@ -1,0 +1,10 @@
+fruits=["apple","banana","mango"]
+print(fruits[2])
+veg=("carrot","tomato")
+print(veg)
+num={1:"one",2:"two"}
+print(num)
+conversion=set(fruits)
+print(conversion)
+l=list()
+print(l)
